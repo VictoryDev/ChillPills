@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ChillPills
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: VictoryLe
+Implementation-Vendor-Id: com.ryanvictory.chillpills
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ChillPills
+Created-By: Maven Integration for Eclipse
+
